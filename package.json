@@ -1,0 +1,14 @@
+{
+  "name": "sumairaassignment",
+  "version": "1.0.0",
+  "description": "fa17mscs0021",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumaira",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
